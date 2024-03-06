@@ -5,7 +5,7 @@ Beautiful travel tour website using html css javascript. Navbar, carousel, cards
 
 
 ## Demo Link
-<a href="https://Rajat0063github.io/AWT-Project/">LIVE</a>
+<a href="https://Rajat0063.github.io/AWT-Project/">LIVE</a>
 
 ## About The Travel tour
 
